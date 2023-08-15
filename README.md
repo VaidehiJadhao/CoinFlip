@@ -1,2 +1,2 @@
 # CoinFlip
-Quantum Coin Flip Mini Project
+Introducing the Quantum Coin Flip Simulator – a captivating project conceived for the Quantum Computation course. This interactive endeavor unveils the mysterious realm of quantum superposition and qubit manipulation. With an elegant interface, users can witness the magic of a coin existing in both heads and tails states simultaneously, offering a glimpse into the unparalleled power of quantum computing. Experience the fusion of classical intuition and quantum intrigue in this educational innovation
